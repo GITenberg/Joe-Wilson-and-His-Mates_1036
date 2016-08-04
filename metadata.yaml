@@ -1,0 +1,29 @@
+_repo: Joe-Wilson-and-His-Mates_1036
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Australia -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Joe Wilson and His Mates
+url: http://www.gutenberg.org/ebooks/1036
