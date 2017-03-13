@@ -1,5 +1,8 @@
 _repo: Joe-Wilson-and-His-Mates_1036
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lawson, Henry
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/119
     wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1036#Joe-Wilson-and-His-Mates
 gutenberg_bookshelf: Australia
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
